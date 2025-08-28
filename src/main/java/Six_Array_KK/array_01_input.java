@@ -1,4 +1,4 @@
-package org.java.Array_KK;
+package Six_Array_KK;
 
 public class array_01_input {
     public static void main(String[] args) {

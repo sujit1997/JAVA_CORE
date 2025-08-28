@@ -1,7 +1,6 @@
-package org.java.Array_KK;
+package Six_Array_KK;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class array_06_MultiArrayLIst {
